@@ -1,7 +1,7 @@
 # pumpkin
-- Happy Holloween
-- <div align="center">
-  <img width="600" src="000" />
+- Happy Holloween (click play button)
+<div align="center">
+  <img width="300" src="https://github.com/JasonL1422/pumpkin/blob/main/20221010%20pumpkin2/PUMPKIN_JL15.26.08_RotatingPumpkin2Zv.gif" />
 </div>
-- Ref1: https://www.linkedin.com/posts/the-mathworks_2_pumpkin-activity-6985902408144945152-TZzn?utm_source=share&utm_medium=member_desktop
-- Ref2: https://community.wolfram.com/groups/-/m/t/1815621
+
+<li> Ref: https://community.wolfram.com/groups/-/m/t/1815621
